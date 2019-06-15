@@ -1,0 +1,11 @@
+{
+	"app": {
+		"port": 3000,
+		"database": {
+			"protocal": "mongodb://",
+			"host": "localhost",
+			"port": "27017",
+			"name": "users"
+		}
+	}
+}
